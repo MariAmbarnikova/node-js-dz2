@@ -1,0 +1,12 @@
+{
+    "name": "lerts-password-generator",
+    "version": "1.0.0",
+    "description": "Password generator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Lerts",
+    "license": "ISC"
+}
